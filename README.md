@@ -11,3 +11,10 @@
 7. open source changing remote jobs : https://youtu.be/URpX4uhL4kY
 8. remote jobs, internships with open source : https://youtu.be/IzSl46-K4LE
 9. contributing to open source : https://youtu.be/v2X51AVgl3o
+
+## open source projects lists :
+
+1. https://github.com/search?q=javascript+open+source+project+list&type=repositories
+2. https://github.com/sqreen/awesome-nodejs-projects
+3. https://github.com/lk-geimfari/awesomo
+4. https://github.com/agoldis/learn-by-contributing
