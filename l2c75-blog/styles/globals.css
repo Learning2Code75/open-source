@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  a {
+    @apply text-blue-500 rounded hover:text-green-50 px-3 hover:bg-gray-900 p-2;
+  }
+}
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&display=swap");
+* {
+  font-family: "Comfortaa", cursive;
+}
+.btn{
+  background-color: black;
+  padding: .4rem;
+  margin: .4rem;
+}
+.active {
+  background-color: #1d1c1c;
+  padding: 0.3rem;
+  border-radius: 0.5rem;
+}
+.md-content {
+  overflow: scroll;
+}
+
+.logo-img{
+	max-width: 380px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  align-self: center;
+	
+}
+.instaHolder{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self:center;
+}
+.insta{
+  color:#E75480;
+  font-size: 2rem;
+}
+.github{
+  color:#746d6d;
+  font-size: 2rem;
+}
+
+.header-div{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+img{
+  display: flex;
+  align-self: center;
+  border-radius:2rem;
+  object-fit: contain;
+  width: 100%;
+}
+
+.prose{
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  align-content: center;
+  font-size: 1.2rem;
+  flex-direction: column;   
+  align-items:center;                                                                                                                                                                                                                                                                                                   
+}
+
+@media screen and (max-width: 340px){
+  .navbar{
+    flex-direction: column;
+  }
+}
+
+.thumbnail{
+  border-radius: .6rem;
+}
+
+.ytcontainer{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.g-ytsubscribe{
+  margin: 0 auto;
+  display:flex;
+  align-self: center;
+}
