@@ -49,6 +49,44 @@
 4. https://youtu.be/JoHUi9KvnOA [/7h]
 5. https://youtube.com/playlist?list=PLY63ZQr2Y5BHkJJhwPjJuJ41CIyv3m7Ru [/36]
 
+### advanced devops :
+
+1. Terraform
+
+- https://youtu.be/HmxkYNv1ksg [/9m]
+- https://youtu.be/SLB_c_ayRMo [/2h 20m]
+- https://youtu.be/tomUWcQ0P3k [/2m]
+- https://youtu.be/V4waklkBC38 [/14h]
+- https://youtu.be/VCayKl82Lt8 [/52m]
+- https://youtu.be/iRaai1IBlB0 [/1h 40m]
+
+2. Jenkins
+
+- https://youtu.be/bjelFjcY_o8 [/6h 13m]
+- https://youtu.be/6YZvp2GwT0A [/1h 8m]
+- https://youtu.be/f4idgaq2VqA [/1h 3m]
+
+3. Ansible
+
+- https://youtu.be/xRMPKQweySE [/2m]
+- https://youtu.be/fHO1X93e4WA [/11m]
+- https://youtu.be/1id6ERvfozo [/16m]
+- https://youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70 [/16]
+
+4. RabbitMQ
+
+- https://youtu.be/NQ3fZtyXji0 [/2m]
+- https://youtu.be/7rkeORD4jSw [/10m]
+
+5. Kafka
+
+- https://youtu.be/uvb00oaa3k8 [/2m]
+- https://youtu.be/aj9CDZm0Glc [/9m]
+
+### deployment patterns:
+
+1. https://www.linkedin.com/posts/brijpandeyji_the-5-deployment-patterns-to-know-in-2023-activity-7096090445641826305-KqDp?utm_source=share&utm_medium=member_android
+
 ## system design :
 
 ### hld vs lld :
