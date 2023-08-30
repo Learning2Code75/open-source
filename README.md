@@ -43,11 +43,81 @@
 
 ### docker , k8s:
 
+[Steps: 1 --> 9]
+
+[I - Fundamentals]
+
+(Step 1 : Understanding the Why)
+
+1. https://youtu.be/g8Sf-6EsgZM
+2. https://youtu.be/VnvRFRk_51k
+3. https://youtu.be/g8Sf-6EsgZM
+
+(Step 2 : Architecture of Kubernetes)
+
+1. https://youtu.be/umXEmn3cMWY
+
+(Step 3 : Core Objects of Kubernetes)
+
+1. https://youtu.be/Krpb44XR0bk
+2. https://youtu.be/K3jNo4z5Jx8
+3. https://youtu.be/80Ew_fsV4rM
+4. https://youtu.be/0swOh5C3OVM
+5. https://youtu.be/pPQKAR1pA9U
+
+(Step 4 : Kuberenetes Components)
+
+1. https://kubernetes.io/docs/concepts/overview/components/
+2. https://youtu.be/umXEmn3cMWY
+
+[II - Work with Kubernetes]
+
+(Step 5 : Accessing and interacting with Kubernetes)
+
+1. https://kubernetes.io/docs/tasks/tools/
+2. https://kubernetes.io/docs/reference/kubectl/
+3. https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+4. https://kubernetes.io/docs/reference/kubectl/kubectl/
+5. https://youtu.be/E2pP1MOfo3g
+6. https://youtu.be/azuwXALfyRg
+
+(Step 6 : Kubernetes Manifest Files)
+
+1. https://youtu.be/qmDzcu5uY1I
+2. https://youtu.be/1uFVr15xDGg
+3. https://youtu.be/EQNO_kM96Mo
+
+(Step 7 : Troubleshooting )
+
+1. https://kubernetes.io/docs/tasks/debug/debug-application/
+2. https://kubernetes.io/docs/tasks/debug/debug-cluster/
+3. https://youtu.be/azuwXALfyRg
+4. https://www.techworld-with-nana.com/kubernetes-administrator-cka
+
+(Step 8 : Common K8s misconfigurations)
+
+(Step 9 : Helm Charts)
+
+1. https://helm.sh/
+2. https://youtu.be/-ykwb1d0DXU
+3. https://youtu.be/QoDqxm7ybLc
+
+[Steps : 10 --> 13]
+
 1. https://youtu.be/kTp5xUtcalw [/6h]
 2. https://youtu.be/AplluksKvzI [/14h]
 3. https://youtu.be/X48VuDVv0do [/4h]
 4. https://youtu.be/JoHUi9KvnOA [/7h]
 5. https://youtube.com/playlist?list=PLY63ZQr2Y5BHkJJhwPjJuJ41CIyv3m7Ru [/36]
+
+#### kind(local k8s clusters):
+
+1. https://youtu.be/C0v5gJSWuSo
+2. https://youtu.be/m-IlbCgSzkc
+3. https://youtu.be/Nm2c9xvGMpU
+4. https://youtu.be/8KtmevMFfxA
+5. https://youtu.be/DfmxNzbGPzY
+6. https://youtu.be/kkW7LNCsK74
 
 ### advanced devops :
 
