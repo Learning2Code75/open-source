@@ -19,13 +19,18 @@
 3. https://github.com/lk-geimfari/awesomo
 4. https://github.com/agoldis/learn-by-contributing
 
+### filtered lists :
+
+1. https://github.com/sqreen/awesome-nodejs-projects
+2. https://github.com/idontknowjs/gsoc-web-projects
+
 ## devops :
 
 ### devops roadmap:
 
 1. https://www.linkedin.com/feed/update/urn:li:activity:7077381161601122305?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7077381161601122305%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
-2. kubernetes roadmap : https://youtu.be/S8eX0MxfnB4 [/16m]
+2. kubernetes roadmap : https://youtu.be/S8eX0MxfnB4 [16m/16m]
 
 ### devops tools :
 
@@ -49,7 +54,7 @@
 
 (Step 1 : Understanding the Why)
 
-1. https://youtu.be/g8Sf-6EsgZM
+1. https://youtu.be/g8Sf-6EsgZM (d)
 2. https://youtu.be/VnvRFRk_51k
 3. https://youtu.be/g8Sf-6EsgZM
 
@@ -187,3 +192,19 @@
 8. https://github.com/shashank88/system_design
 9. https://github.com/mmcgrana/services-engineering
 10. https://github.com/kilimchoi/engineering-blogs
+
+## cybersec
+
+### cybersec roadmap
+
+1. https://youtu.be/IXhLVORrr3A [/8m]
+2. https://youtu.be/NXpeXn0SKPU [/26m]
+3. https://youtu.be/nL2vHJ53Wr4 [/1h]
+
+### cybersec tools
+
+1. https://youtu.be/ieqPVzDiWuo?si=96zV-4TazYAPgDnU
+
+### top open source security tool index
+
+1. https://opensourcesecurityindex.io/
